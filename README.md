@@ -11,7 +11,7 @@
 
 ### 1ª Etapa
 
-El primer paso fue desarrollar el diagrama de la base de datos, definiendo las tablas maestras y auxiliares, claves, restricciones y las relaciones entre ellas.
+El primer paso fue desarrollar el diagrama de la base de datos, definiendo las tablas maestras y auxiliares, claves y las relaciones entre ellas.
 
 ### 2ª Etapa
 
