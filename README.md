@@ -4,7 +4,7 @@
 
 **Fashion World** es un proyecto grupal del primer cuatrimestre de la carrera de la Tecnicatura Universitaria en Programación, en el cual se buscó exponer los conocimientos adquiridos a lo largo de los meses, mediante una aplicación de escritorio (WinForms) desarrollada con .NET y C#.
 
-> Esta aplicación esta orientada a la gestión de inventario de una empresa de ropa. A través de esta aplicación, se pueden manipular los productos y gestionar atributos clave como las tablas auxiliares, que influyen en el sistema. Además, se busca proporcionar a los usuarios la capacidad de consultar y obtener estadísticas basadas en los datos almacenados, permitiéndoles así obtener un control detallado de sus productos y estadísticas relevantes sobre su empresa.
+> Esta aplicación esta orientada a la gestión de inventario de una empresa de ropa. A través de esta aplicación, se pueden manipular los productos y gestionar atributos clave como las tablas auxiliares, que influyen en el sistema. Además, se busca proporcionar a los usuarios la capacidad de obtener estadísticas basadas en los datos almacenados, permitiéndoles así obtener un control detallado de sus productos y estadísticas relevantes sobre su empresa.
 > 
 
 ## El proyecto se dividió en tres etapas fundamentales:
